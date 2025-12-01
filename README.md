@@ -11,7 +11,7 @@ main PCB board connecting a rotary encoder (adjusting the time) on the top of th
 ![3dfront](https://vdisxgivmydncdlltgmb.supabase.co/storage/v1/object/public/project-images/clementineclock.png)
 ![3dback](https://vdisxgivmydncdlltgmb.supabase.co/storage/v1/object/public/project-images/clementineclock2.png)
 
-![pcb](https://vdisxgivmydncdlltgmb.supabase.co/storage/v1/object/public/project-images/clementineclockpcb.png)
+![pcb](https://vdisxgivmydncdlltgmb.supabase.co/storage/v1/object/public/project-images/clementineclockpcb1.png)
 ![schematic](https://vdisxgivmydncdlltgmb.supabase.co/storage/v1/object/public/project-images/clementineclockschematic.png)
 
 ## bill of materials
