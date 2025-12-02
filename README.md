@@ -28,7 +28,7 @@ main PCB board connecting a rotary encoder (adjusting the time) on the top of th
 | SW4          | Power Switch       | PCM12SMTR slide SPST                           | 1   | 1.14              | 1.14        | https://www.digikey.com/en/products/detail/c-k/PCM12SMTR/1640112 |
 | BT1_HOLDER   | Battery Holder     | Kitronik 2273 3×AAA w/ JST                     | 1   | 1.87              | 1.87        | https://www.digikey.com/en/products/detail/kitronik-ltd/2273/8635437 |
 | BT1          | Battery Connector  | B2B-PH-K-S JST-PH 2-pin header                 | 1   | 0.10              | 0.10        | https://www.digikey.com/en/products/detail/jst-sales-america-inc/B2B-PH-K-S/926611 |
-| J1           | LCD Header         | PRPC004SAAN-RC 1×4 2.54mm                      | 1   | 0.34              | 0.34        | https://www.digikey.com/en/products/detail/sullins-connector-solutions/prpc004saan-rc/27752520 |
+| J1           | LCD Header         | PRPC004SAAN-RC 1×4 2.54mm                      | 1   | 0.34              | 0.34        | https://www.digikey.com/en/products/detail/adam-tech/RS1-04-G/9829303 |
 | C1           | Capacitor          | 10µF 10V X7R 0805                               | 1   | 1.02              | 1.02        | https://www.digikey.com/en/products/detail/kemet/c0805x106j8rac7210/7423434 |
 | C2           | Capacitor          | 22µF 10V X5R 0805                               | 1   | 0.15              | 0.15        | https://www.digikey.com/en/products/detail/yageo/cc0805mrx5r6bb226/7164395 |
 | C3           | Capacitor          | 0.22µF 50V X7R 0805                             | 1   | 0.15              | 0.15        | https://www.digikey.com/en/products/detail/kemet/c0805c224k5ractu/754753 |
