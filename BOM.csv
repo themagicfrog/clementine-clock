@@ -15,11 +15,12 @@ C1,Capacitor,10µF 10V X7R 0805,1,1.02,1.02,https://www.digikey.com/en/products/
 C2,Capacitor,22µF 10V X5R 0805,1,0.15,0.15,https://www.digikey.com/en/products/detail/yageo/CC0805MKX5R7BB226/5195308
 C3,Capacitor,0.22µF 50V X7R 0805,1,0.15,0.15,https://www.digikey.com/en/products/detail/kemet/c0805c224k5ractu/754753
 C4,Capacitor,1µF 50V X7R 0805,1,0.81,0.81,https://www.digikey.com/en/products/detail/kemet/C0805C105K5RACTU/3317615
-C5,Capacitor,10nF 250V 0805,1,0.08,0.08,https://www.digikey.com/en/products/detail/nextgen-components/0805B103K251DC/18668378
+C5,Capacitor,10nF 250V 0805,1,0.08,0.08,https://www.digikey.com/en/products/detail/kemet/C0805C103F5GECAUTO/8647276
 C6,Capacitor,4.7µF 50V X5R 0805,1,0.19,0.19,https://www.digikey.com/en/products/detail/murata-electronics/grm21br61h475ke51l/4905540
 R1,Resistor,100kΩ 1% 0805,1,0.1,0.1,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/rmcf0805ft100k/1760712
 R2,Resistor,1kΩ 1% 0805,1,0.1,0.1,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/rmcf0805ft1k00/1760090
 D1,LED,Red 0805 LED,1,0.19,0.19,https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/150080RS75000/4489918 
 
 TOTAL,,,,Tax + Shipping = 10,37.8,
+
 
