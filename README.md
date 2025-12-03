@@ -38,7 +38,7 @@ main PCB board connecting a rotary encoder (adjusting the time) on the top of th
 | R1           | Resistor           | 100kΩ 1% 0805                                   | 1   | 0.10              | 0.10        | https://www.digikey.com/en/products/detail/stackpole-electronics-inc/rmcf0805ft100k/1760712 |
 | R2           | Resistor           | 1kΩ 1% 0805                                     | 1   | 0.10              | 0.10        | https://www.digikey.com/en/products/detail/stackpole-electronics-inc/rmcf0805ft1k00/1760090 |
 | D1           | LED                | Red 0805 LED                                    | 1   | 0.19              | 0.19        | https://www.digikey.com/en/products/detail/würth-elektronik/150080RS75000/4489918 |
-| **TOTAL**    | —                  | —                                              | —   | **Tax + Shipping = 10** | **37.8** | |
+| **TOTAL**    | —                  | —                                              | —   | **Tax + Shipping = 3.12** | **44.26** | |
 
 
 
